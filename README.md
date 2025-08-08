@@ -82,10 +82,9 @@ Ultimately, I view programming as both an art and a science — a craft I’m de
   </a>
   <a href="https://www.linkedin.com/in/mash02" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mash.dev02@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+ <a href="mailto:mash.dev02@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
   <a href="https://wa.me/+8801986763961" target="_blank" rel="noopener noreferrer">
     <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
