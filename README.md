@@ -1,12 +1,39 @@
- <!-- Banner Image -->
-<img width="1584" height="396" alt="BLack Minimalist Corporate Staff Identity LinkedIn Banner" src="https://github.com/user-attachments/assets/c10a5a13-35f9-4617-94bd-c95eda4e7da1" />
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c10a5a13-35f9-4617-94bd-c95eda4e7da1" alt="Black Minimalist Corporate Staff Identity LinkedIn Banner" width="100%" />
+</p>
 
+<h1 align="center">👋 Hi, I'm Mohammad Al Amin</h1>
+<h3 align="center">Full Stack Web Developer | React.js & Next.js Enthusiast</h3>
 
+---
 
- <!-- My used Tech Showcase -->
-<h3>Things I code with</h3>
-<p>
-  <!-- Frontend -->
+## 🚀 About Me
+I am a passionate and detail-driven web developer dedicated to crafting seamless, intuitive, and highly impactful digital experiences that truly resonate with users. With a strong command of React.js, I build fast, dynamic, and visually compelling frontends that deliver exceptional user engagement. Confident in Express.js, I design and implement robust backend APIs, and I am currently investing deeply in mastering Next.js to elevate performance, scalability, and SEO of modern web applications.
+
+Having solidified my expertise in frontend development, I am now fully immersed in backend engineering, driven by a genuine passion for problem solving and creating clean, efficient, and scalable solutions that address real-world challenges. I thrive at the intersection of creativity and logic, transforming complex problems into elegant, maintainable code that empowers users and businesses alike.
+
+I continuously evolve my skillset by embracing cutting-edge technologies and industry best practices, ensuring every project I deliver is innovative, reliable, and future-proof. My approach balances meticulous attention to detail with big-picture thinking, enabling me to build software that not only meets but exceeds expectations.
+
+Ultimately, I view programming as both an art and a science — a craft I’m deeply committed to refining every day to build meaningful, user-centric applications that make a difference. 
+
+---
+
+## 🎯 Current Activities
+- Mastering Next.js to build SEO-optimized, lightning-fast, and highly scalable web applications that deliver exceptional user experiences and meet modern performance standards. I’m exploring advanced features like server-side rendering, static generation, and API routes to push the boundaries of frontend development.
+
+- Developing real-world full-stack projects using the MERN stack and Firebase, focusing on seamless integration of frontend and backend, secure authentication, efficient data management, and polished UI/UX to solve practical problems and create meaningful digital products.
+
+- Deepening backend expertise by designing and implementing robust, secure APIs with Express.js and MongoDB, emphasizing scalable architecture and clean, maintainable code. I’m fully invested in mastering backend logic to tackle complex, real-world challenges through elegant solutions.
+
+- Automating deployment pipelines and learning DevOps fundamentals to streamline continuous integration and delivery (CI/CD), improve application reliability, and enhance development workflows. This includes hands-on experience with platforms like Vercel, Netlify, and GitHub Actions to ensure smooth, automated releases.  
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="center">
+<!-- Frontend -->
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -34,19 +61,36 @@
 <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
 
+## 📊 My GitHub Stats
 
-<h3>📊 My Stats</h3>
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=alamin-shanto&show_icons=true&theme=radical" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-shanto&layout=compact&theme=radical" alt="Top Langs">
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alamin-shanto&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-shanto&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
 
+## 📫 Connect with Me  
 
+<p align="center">
+  <a href="https://github.com/alamin-shanto" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mash02" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mash.dev02@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+8801986763961" target="_blank" rel="noopener noreferrer">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
+---
 
-
-
+*“Code is not just what I do — it’s who I am.”*  
