@@ -63,14 +63,30 @@ Ultimately, I view programming as both an art and a science — a craft I’m de
 
 ---
 
-## 📊 My GitHub Stats
+
+## 📊 GitHub Profile Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alamin-shanto&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=alamin-shanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="600" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-shanto&layout=compact&theme=radical" alt="Top Languages" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-shanto&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </p>
+
+<p align="center">
+  <img alt="GitHub Contributions Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=alamin-shanto&theme=react-dark&area=true&hide_border=true" width="600" />
+</p>
+
+<p align="center">
+ <a href="https://github.com/alamin-shanto" target="_blank" rel="noopener noreferrer">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alamin-shanto.alamin-shanto" alt="visitor badge" />
+   <img src="https://img.shields.io/github/followers/alamin-shanto?style=social" alt="GitHub followers" />
+</a>
+
+</p>
+
+
 
 ---
 
