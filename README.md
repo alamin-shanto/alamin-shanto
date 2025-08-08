@@ -23,13 +23,13 @@ Ultimately, I view programming as both an art and a science — a craft I’m de
 ## 🎯 Current Activities
 
 - Mastering Next.js to build **SEO-optimized**, lightning-fast, and highly scalable web applications that deliver exceptional user experiences and meet modern performance standards. I’m exploring advanced features like **server-side rendering**, **static generation**, and **API routes** to push the boundaries of frontend development.  
-  ![Progress](https://img.shields.io/badge/progress-55%25-brightgreen?style=flat-square)
+  ![Progress](https://img.shields.io/badge/progress-55%25-yellow?style=flat-square)
 
 - Developing real-world full-stack projects using the **MERN stack** and **Firebase**, focusing on seamless integration of frontend and backend, secure authentication, efficient data management, and polished UI/UX to solve practical problems and create meaningful digital products.  
   ![Progress](https://img.shields.io/badge/progress-90%25-brightgreen?style=flat-square)
 
 - Deepening backend expertise by designing and implementing robust, secure APIs with **Express.js** and **MongoDB**, emphasizing scalable architecture and clean, maintainable code. I’m fully invested in mastering backend logic to tackle complex, real-world challenges through elegant solutions.  
-  ![Progress](https://img.shields.io/badge/progress-70%25-yellow?style=flat-square)
+  ![Progress](https://img.shields.io/badge/progress-70%25-brightgreen?style=flat-square)
 
 - Automating deployment pipelines and learning DevOps fundamentals to streamline continuous integration and delivery (CI/CD), improve application reliability, and enhance development workflows. This includes hands-on experience with platforms like **Vercel**, **Netlify**, and **GitHub Actions** to ensure smooth, automated releases.  
   ![Progress](https://img.shields.io/badge/progress-50%25-yellow?style=flat-square)
