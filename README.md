@@ -36,14 +36,17 @@
 
 
 
- <!-- Github stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-
-
-
-
+<h3>📊 My Stats</h3>
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=alamin-shanto&show_icons=true&theme=radical" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-shanto&layout=compact&theme=radical" alt="Top Langs">
 
 
 </p>
+
+
+
+
+
+
+
