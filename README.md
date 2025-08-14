@@ -161,7 +161,8 @@ Ultimately, I view programming as both an art and a science — a craft I’m de
 
 <p align="center">
  <a href="https://github.com/alamin-shanto" target="_blank" rel="noopener noreferrer" title="Visit my GitHub Profile">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alamin-shanto.alamin-shanto" alt="visitor badge" />
+  ![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/alamin-shanto.profile/visits)
+>
   <img src="https://img.shields.io/github/followers/alamin-shanto?style=social" alt="GitHub followers" />
  </a>
 </p>
