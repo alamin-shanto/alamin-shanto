@@ -156,18 +156,21 @@ Ultimately, I view programming as both an art and a science — a craft I’m de
 </p>
 
 <p align="center">
-  <img alt="GitHub Contributions Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=alamin-shanto&theme=react-dark&area=true&hide_border=true" width="600" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=alamin-shanto&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500" />
 </p>
 
 <p align="center">
- <a href="https://github.com/alamin-shanto" target="_blank" rel="noopener noreferrer" title="Visit my GitHub Profile">
-  ![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/alamin-shanto.profile/visits)
->
-  <img src="https://img.shields.io/github/followers/alamin-shanto?style=social" alt="GitHub followers" />
- </a>
+  <img alt="GitHub Contributions Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=alamin-shanto&theme=react-dark&area=true&hide_border=true" width="600" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alamin-shanto&label=Profile%20Visitors&color=brightgreen&style=for-the-badge" alt="Profile Visitors" />
+  <img src="https://img.shields.io/github/followers/alamin-shanto?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+</p>
+
+
 
 ### 🏆 GitHub Trophies
 <div align="center">
