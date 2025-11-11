@@ -175,8 +175,11 @@ Ultimately, I view programming as both an art and a science — a craft I’m de
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alamin-shanto&theme=darkhub&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com/alamin-shanto/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alamin-shanto&theme=onedark&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
+  </a>
 </p>
+
 
 
 ---
